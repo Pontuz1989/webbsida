@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<titel> <h1>Sofias webbsida</h1></titel>
+</head>
+<body>
+<br>
+<h2>Det här är min nya webbsida</h2>
+</head>
+</body>
+
+<br>Hej,
+ TEST TEST
+
+Med vänliga hälsningar Sofia <br>
+<br>
+
+<a href="sida2.htm">Här berättar jag om mina intressen</a>
+
+<br>
+<img src="humleblomma.jpg" alt="blomma"/>
+
+<style>
+body {
+  background-color: green;
+  font-family: sans-serif;
+  }
+</style>
+</html>
